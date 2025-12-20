@@ -20,7 +20,11 @@
 - محاسبه مصرف لایسنس به دو شیوه پیاده سازی، **`باز تعریف دسترسی های کاربران`** و **`باز تعریف سرور های مقصد`**
 - این برنامه به شما خواهد گفت اگر Target های تعریف شده در Wallix را به روش های دیگری که در مستندات آن موجود است، تعریف کنید، نسبت به وضعیت فعلی چه تعداد در میزان مصرف لایسنس صرفه جویی خواهد شد.
 
+## 💎خروجی چه خواهد بود؟ 
+- خروجی برنامه میگوید چه تعداد لایسنس مصرف شده در حالت فعلی، پس از تغییرات گانفیک، به چه میزان کاهش خواهد یافت و در نتیجه چه میزان لایسنس صرفه جویی خواهد شد. تغییر در نحوه تعریف تارگت ها به دو شیوه قابل انجام است که خروجی این برنامه، میزان مصرف لایسنس برای هر دو روش  محاسبه و اعلام خواهد کرد.
 
+## 💎قدم بعدی چیست؟ 
+- با کلیک بر روی "How to Optimize?"، میتوانید راهنمایی های لازم را دریافت کنید!
 ## 🛠️نحوه استفاده
  
 1.در Wallix از منو سمت چپ وارد قسمت **`Import/Export → CSV`** بشوید.  
@@ -50,7 +54,14 @@
 
   ## 📸تصاویر
 
-  
+![WABLOC v1.0.0 (1)](./screenshots/WABLOC%20screenshot%201.png)
+
+![WABLOC v1.0.0 (2)](./screenshots/WABLOC%20screenshot%20%202.png)
+
+![WABLOC v1.0.0 (3)](./screenshots/WABLOC%20screenshot%20%203.png)
+
+![WABLOC v1.0.0 (4)](./screenshots/WABLOC%20screenshot%204.png)
+
 
 # English
 
@@ -58,20 +69,27 @@
 ## 🌟Introduction
 A **`SPA (Single-Page Application)`** delivered as a single **`HTML`** file, fully **`offline`**, with no **`libraries`**, **`dependencies`**, or **`installation`** required.
 
-This tool acts as a license calculator, showing you how many licenses can be saved by changing the way Devices are defined in the PAM system—without granting any additional access to users.
+This tool functions as a license calculator, showing you how many licenses can be saved by changing the way Devices are defined in the PAM system—without granting any additional access to any user.
 
 ## 🔑Key Features
 - Fully **`offline`**
-- No **`installation`** required  
-- No **`internet`** required  
-- No **`libraries`** required  
-- Delivered as a single **`HTML`** file  
-- Works on all modern browsers  
+- No **`installation`** required
+- No **`internet`** required
+- No **`libraries`** required
+- Delivered as a single **`HTML`** file
+- Works on all modern browsers
 - Fully compatible with Wallix CSV files
 
 ## 💎What Does It Do?
 - Calculates license consumption using two implementation approaches: **`redefining user authorizations`** and **`redefining target servers`**
 - Shows how many licenses can be saved if the Targets defined in Wallix are configured using alternative methods documented in the official Wallix guides, compared to the current configuration.
+
+## 💎What Will the Output Be?
+- The output shows how many licenses are currently consumed, how much this number will decrease after applying configuration changes, and how many licenses will be saved as a result.  
+  Since Targets can be redefined using two different approaches, the tool calculates and reports license consumption for both methods.
+
+## 💎What’s the Next Step?
+- By clicking **"How to Optimize?"**, you will receive the necessary guidance!
 
 ## 🛠️How to Use
 
@@ -79,9 +97,9 @@ This tool acts as a license calculator, showing you how many licenses can be sav
 
 2. Configure the following options:
 
-🟥 Set ![Field separator](https://img.shields.io/badge/-Field%20separator-ff0000?style=flat) to ![; (semicolon)](https://img.shields.io/badge/-%3B%20%28semicolon%29-007bff?style=flat)
+🟥 Set ![Field separator](https://img.shields.io/badge/-Field%20separator-ff0000?style=flat) to  ![; (semicolon)](https://img.shields.io/badge/-%3B%20%28semicolon%29-007bff?style=flat)
 
-🟥 Set ![List separator](https://img.shields.io/badge/-List%20separator-ff0000?style=flat) to ![, (comma)](https://img.shields.io/badge/-%2C%20%28comma%29-007bff?style=flat)
+🟥 Set ![List separator](https://img.shields.io/badge/-List%20separator-ff0000?style=flat) to    ![, (comma)](https://img.shields.io/badge/-%2C%20%28comma%29-007bff?style=flat)
 
 3. In the **Data** section, select the following items:
 - **`Authorizations`**
@@ -93,4 +111,14 @@ This tool acts as a license calculator, showing you how many licenses can be sav
 
 5. Download the program’s **`HTML`** file from here and open it in any modern browser.
 
-6. Extract the **`zip`** file downloaded in **`Step 4`**, then **Drag and Drop** the extracted files into the application.
+6. Extract the **`zip`** file downloaded in **Step 4**, then **Drag and Drop** the extracted files into the application.
+
+## 📸Screenshots
+
+![WABLOC v1.0.0 (1)](./screenshots/WABLOC%20screenshot%201.png)
+
+![WABLOC v1.0.0 (2)](./screenshots/WABLOC%20screenshot%20%202.png)
+
+![WABLOC v1.0.0 (3)](./screenshots/WABLOC%20screenshot%20%203.png)
+
+![WABLOC v1.0.0 (4)](./screenshots/WABLOC%20screenshot%204.png)

@@ -1,6 +1,10 @@
 # فارسی
 
 ---
+این پروژه در آدرس زیر آپدیت شده و در دسترس قرار گرفته:
+
+https://github.com/sMohammad14/WABLOT-wallix-license-optimization-tool
+---
 ## 🌟معرفی
  برنامه **`SPA (Single-Page Application)`** ارائه شده در یک تک فایل **`HTML`** به صورت **`Offline`**. بدون نیاز به **`کتابخانه`**، **`وابستگی`** و **`نصب`**.
  
@@ -65,6 +69,10 @@
 
 # English
 
+---
+This project has been updated and is available at the following link:
+
+https://github.com/sMohammad14/WABLOT-wallix-license-optimization-tool
 ---
 ## 🌟Introduction
 A **`SPA (Single-Page Application)`** delivered as a single **`HTML`** file, fully **`offline`**, with no **`libraries`**, **`dependencies`**, or **`installation`** required.
